@@ -1,0 +1,6 @@
+{
+  "name": "Giulia conta",
+  "email": "akshainie_p@thiel.io",
+  "gender": "female",
+  "status": "active"
+}
